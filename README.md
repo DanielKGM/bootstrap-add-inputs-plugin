@@ -13,5 +13,5 @@ This plugin was developed by **Daniel Campos Galdez** and has been successfully 
 
 ## Live Demo
 ![Plugin Preview](./preview.png)
-Access the [Live Demo here](https://replit.com/@DANIELCAMPOS26/rpgemc?v=1#main.c) to see the plugin in action.
 
+Access the [Live Demo here](https://replit.com/@DANIELCAMPOS26/rpgemc?v=1#main.c) to see the plugin in action.
