@@ -1,0 +1,43 @@
+/* POR DANIEL GALDEZ */
+.panel {
+  margin: 60px auto;
+  max-width: 800px;
+}
+
+.add-btn,
+.remove-btn {
+  transition: max-width 0.6s;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 44px;
+}
+
+.add-btn::after {
+  content: "Add";
+}
+
+.remove-btn::after {
+  content: "Remove";
+}
+
+.add-btn::after,
+.remove-btn::after {
+  position: absolute;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 0;
+  transition: max-width 0.6s, opacity 0.6s;
+  opacity: 0;
+  margin-left: 5px;
+}
+
+.add-btn:hover,
+.remove-btn:hover {
+  max-width: 200px;
+}
+
+.add-btn:hover::after,
+.remove-btn:hover::after {
+  position: relative;
+  opacity: 1;
+}
