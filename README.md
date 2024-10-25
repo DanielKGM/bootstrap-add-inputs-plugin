@@ -14,4 +14,4 @@ This plugin was developed by **Daniel Campos Galdez** and has been successfully 
 ## Live Demo
 ![Plugin Preview](./preview.png)
 
-Access the [Live Demo here](https://danielkgm.github.io/bootstrap-dinamicaly-add-inputs/) to see the plugin in action.
+Access the [Live Demo here](https://danielkgm.github.io/bootstrap-add-inputs-plugin/) to see the plugin in action.
